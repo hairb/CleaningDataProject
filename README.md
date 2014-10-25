@@ -7,7 +7,7 @@ files:
 * run_analysis.R - the project's script 
 * README.md - this readme file
 * CodeBook.md - the codebook
-* datasets - intermediate dataset files created by the run_analysis.R script
+
 
 ## Information regarding *run_analysis.R*:
 
