@@ -1,5 +1,4 @@
 library(sqldf)
-setwd("C:\\coursera\\CleaningData\\project")
 urlFile <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 destZipFile <- "dataFile.zip"
 download.file(urlFile,destZipFile,mode="wb")
